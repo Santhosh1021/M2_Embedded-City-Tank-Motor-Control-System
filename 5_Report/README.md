@@ -56,4 +56,14 @@ In our daily life Water plays a vital role in our Economy. The Availability of w
 # Flow Chart
 ![image](https://user-images.githubusercontent.com/101259618/164442868-cb7134a4-285b-44b2-9e7f-a9bb73a6d30b.png)
 
+# Test Plans
+
+| **Test ID** | **Description** | **Input** | **Output** | **Status** |
+| --- | --- | --- | --- | --- |
+| TID\_01 | LOW LEVEL SENSOR | 1 | 2 MOTOR ON | PASS ||
+| TID\_02 | MIDDLE SENSOR | 1 | 1 MOTOR ON | PASS |
+| TID\_03 | HIGH LEVEL SENSOR | 1| 2 MOTOR OFF| PASS |
+| TID\_04 | INTERUPT | 1 | SYSTEM DEACTIVATED| PASS |
+| TID\_06 | Display | TANK STATUS | Process OF MOTORS | PASS |
+
 
