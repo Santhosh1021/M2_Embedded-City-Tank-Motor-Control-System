@@ -53,4 +53,7 @@ In our daily life Water plays a vital role in our Economy. The Availability of w
 # Block Diagram
 ![image](https://user-images.githubusercontent.com/101259618/164445013-815ccb15-e653-4cf7-b372-cb164828e7d3.png)
 
+# Flow Chart
+![image](https://user-images.githubusercontent.com/101259618/164442868-cb7134a4-285b-44b2-9e7f-a9bb73a6d30b.png)
+
 
