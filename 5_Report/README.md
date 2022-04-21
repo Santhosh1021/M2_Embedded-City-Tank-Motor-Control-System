@@ -50,4 +50,7 @@ In our daily life Water plays a vital role in our Economy. The Availability of w
 | 2 | LR2 | Avr Gcc compiler | Done |
 | 3 | LR3 | LCD display | Done |
 
+# Block Diagram
+![image](https://user-images.githubusercontent.com/101259618/164445013-815ccb15-e653-4cf7-b372-cb164828e7d3.png)
+
 
