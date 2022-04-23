@@ -114,7 +114,7 @@ int main()
       LCD_Clear();
      // _delay_us(200);
         _delay_ms(2000);
-       LCD_Print("2 Motor oOO ");
+       LCD_Print("system deactivated ");
        FLAG=0;
    }
   }
